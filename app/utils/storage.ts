@@ -1,4 +1,4 @@
-import type { RecentWorkspaceEntry } from "../types/workspace";
+import type { RecentWorkspaceEntry } from "../_types/workspace";
 
 const FAVORITES_KEY = "dataway-favorites";
 const RECENT_KEY = "dataway-recent";
